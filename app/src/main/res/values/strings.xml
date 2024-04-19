@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Presentation App</string>
+    <string name="name">Matías Reyes</string>
+    <string name="charge">Android Developer</string>
+    <string name="phone">+56 9 5770 5682</string>
+    <string name="linkedIn">/in/mreyesgz</string>
+    <string name="mail">matirey1@gmail.com</string>
+</resources>
